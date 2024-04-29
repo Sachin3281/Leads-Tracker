@@ -1,0 +1,100 @@
+body{
+  margin:0;
+  padding:10px;
+  font-family:Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+input{
+  padding-left: 5px;
+  width:50%;
+  height: 25px;
+  margin-bottom: 5px;
+  border: 2px solid #5f9341;
+  box-sizing: border-box;
+}
+input:hover{
+  background-color: #d4d4f5;
+  border: 2px solid #77b753;
+}
+
+button{
+  width: 130px;
+  height: 30px;
+  background-color: #5f9341;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#delete-btn{
+  width: 130px;
+  height: 30px;
+  background-color: white;
+  border: none;
+  color: #5f9341;
+  border:2px solid #5f9341;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#delete-btn:hover{
+  background-color: #77b753;
+}
+button:hover{
+  background-color: #77b753;
+}
+
+ul{
+  padding: 0;
+}
+li{
+   list-style-type: none;
+   margin-top: 4px;
+}
+a{
+  color: #5f9341;
+}
+
+/* Practise event listener */
+
+/* #box{
+  height: 100px;
+  width: 400px;
+  background-color: cadetblue;
+  margin: auto;
+  text-align: center;
+  padding-top: 70px;
+  color: whitesmoke;
+  font-weight: bolder;
+} */
+
+
+
+/* *{
+    margin: auto;
+}
+
+div{
+    text-align: center;
+}
+
+#apple-shelf{
+  margin-bottom: 5px;
+  width: 200px;
+  height: 50px;
+  background-color: rgb(92, 36, 36);
+}
+#orange-shelf{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(202, 162, 87);
+  } */
+
+  /* #container{
+    
+    color: black;
+    margin: auto;
+    text-align: center;
+  } */
